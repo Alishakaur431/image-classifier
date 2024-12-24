@@ -2,7 +2,7 @@ let classifier;
 let img;
 
 function setup() {
-    classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/qI6UjsUuP/', modelLoaded);
+    classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/KSabk2_9R/', modelLoaded);
 }
 
 function modelLoaded() {
